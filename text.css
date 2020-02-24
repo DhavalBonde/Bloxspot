@@ -1,0 +1,58 @@
+body{
+  font-family: "Century Gothic", CenturyGothic, sans-serif;
+  margin: 0;
+  background-image: url('https://cdn.pixabay.com/photo/2018/04/03/23/24/composition-3288397_1280.jpg');
+}
+
+nav{
+  height: 75%;
+  background-color: #a12222;
+  width: 100%;
+}
+
+.footer a{
+  display: block;
+}
+
+ a {
+  text-decoration: none;
+  background-color: #a12222;
+  color: white;
+  padding: 1.5%;
+  display: inline-block;
+
+}
+
+ a:hover{
+  color: #000;
+  transition: 0.3s;
+}
+
+.about{
+  font-size: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+}
+
+.title{
+  text-align: center;
+  margin-top: 10%;
+  font-size: 40px;
+}
+
+
+
+.content1{
+  margin: 2% 15%;
+  text-align: justify;
+}
+
+
+
+.footer{
+  bottom: 0;
+  height: 60%;
+  background-color: #000;
+  color: white;
+}
